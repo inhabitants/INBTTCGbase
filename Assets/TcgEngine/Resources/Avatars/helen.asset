@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b848b003e799d264cba32a383c514e74, type: 3}
-  m_Name: tcg_circle
+  m_Script: {fileID: 11500000, guid: c92c9d3c273cc8940be4b9e940d8933e, type: 3}
+  m_Name: helen
   m_EditorClassIdentifier: 
-  id: tcg_circle
-  cardback: {fileID: 21300000, guid: fc74a116d8517f941a41a8eaac61fecf, type: 3}
-  deck: {fileID: 21300000, guid: f8606ce8e07d61740a8344a644e5362e, type: 3}
-  sort_order: 10
+  id: helen
+  avatar: {fileID: 21300000, guid: 66f8915a2de224d4aba3e06145aad236, type: 3}
+  sort_order: 0
