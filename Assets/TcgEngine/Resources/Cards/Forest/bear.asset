@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: bear
   m_EditorClassIdentifier: 
   id: bear
-  title: Bear
+  title: Surge Cha
   art_full: {fileID: 21300000, guid: b76108a23905b5442921e20fa2f4f226, type: 3}
   art_board: {fileID: 21300000, guid: 6272b04c96100fd49813d39026ef62c0, type: 3}
   type: 10
