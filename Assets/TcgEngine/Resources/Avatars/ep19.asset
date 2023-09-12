@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c92c9d3c273cc8940be4b9e940d8933e, type: 3}
-  m_Name: wolf
+  m_Name: ep19
   m_EditorClassIdentifier: 
-  id: wolf
-  avatar: {fileID: 21300000, guid: 829e2e0255297d84a9c068ecd677350d, type: 3}
+  id: ep19
+  avatar: {fileID: 21300000, guid: d83a2eb365a08dd498397a403e2a4944, type: 3}
   sort_order: 0

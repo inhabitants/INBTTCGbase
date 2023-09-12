@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c92c9d3c273cc8940be4b9e940d8933e, type: 3}
-  m_Name: squirrel
+  m_Name: ep17
   m_EditorClassIdentifier: 
-  id: squirrel
-  avatar: {fileID: 21300000, guid: 6b335d3125b5c184882c8ca46fbc17ae, type: 3}
+  id: ep17
+  avatar: {fileID: 21300000, guid: 279a66c166d642242b87fe67af121f83, type: 3}
   sort_order: 0

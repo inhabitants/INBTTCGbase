@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c92c9d3c273cc8940be4b9e940d8933e, type: 3}
-  m_Name: moose
+  m_Name: ep22
   m_EditorClassIdentifier: 
-  id: moose
-  avatar: {fileID: 21300000, guid: 855d37a9e9960014d92c53ecd54246d5, type: 3}
+  id: ep22
+  avatar: {fileID: 21300000, guid: 59ed5aa383b92994cb8c6f7cb512c42e, type: 3}
   sort_order: 0
