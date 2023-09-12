@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: snake_venom
   m_EditorClassIdentifier: 
   id: snake_venom
-  title: Viper
+  title: Taro Phyre
   art_full: {fileID: 21300000, guid: 99bbd1ea4beafdb44ae12f4996210a50, type: 3}
   art_board: {fileID: 21300000, guid: 0f4e97d9d5801bd428f321eadb34a773, type: 3}
   type: 10

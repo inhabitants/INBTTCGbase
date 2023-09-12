@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: owl
   m_EditorClassIdentifier: 
   id: owl
-  title: Owl
+  title: Macro Flux
   art_full: {fileID: 21300000, guid: 388663baa81c02441a56e0b1e9928a98, type: 3}
   art_board: {fileID: 21300000, guid: 4a20a45591649b74cbdecf7852d0234d, type: 3}
   type: 10

@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: wolf_baby
   m_EditorClassIdentifier: 
   id: wolf_baby
-  title: Baby Wolf
-  art_full: {fileID: 21300000, guid: fd6b6c880b7f1bd46adba6b391db0113, type: 3}
-  art_board: {fileID: 21300000, guid: 5b4bd18d1fa270248a02655f91808433, type: 3}
+  title: Nexus-X Tyron
+  art_full: {fileID: 21300000, guid: cfdfd7e47ed8db74eaba244f59fa941a, type: 3}
+  art_board: {fileID: 21300000, guid: c0af2485601d4db42bd43bd82fc26e6d, type: 3}
   type: 10
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
   rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}

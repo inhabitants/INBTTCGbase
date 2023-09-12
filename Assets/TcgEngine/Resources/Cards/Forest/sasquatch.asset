@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: sasquatch
   m_EditorClassIdentifier: 
   id: sasquatch
-  title: Sasquatch
+  title: Axis Shard
   art_full: {fileID: 21300000, guid: 3b0520d0bba85994c8b5b907491a27aa, type: 3}
   art_board: {fileID: 21300000, guid: a091d7175ae05454c935388c0aacb4a9, type: 3}
   type: 10
