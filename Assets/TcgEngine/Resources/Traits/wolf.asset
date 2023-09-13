@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: wolf
   m_EditorClassIdentifier: 
   id: wolf
-  title: Wolf
+  title: Agent
   icon: {fileID: 0}

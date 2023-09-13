@@ -28,9 +28,9 @@ MonoBehaviour:
   abilities:
   - {fileID: 11400000, guid: 952d8d808aec0464a8135270b1ed4049, type: 2}
   - {fileID: 11400000, guid: c04ebd6a2109d0e4891c3e1dc9786993, type: 2}
-  text: '<b>Play</b>: Summon a baby wolf.
+  text: '<b>Play</b>: Summon a Nexus-X Agent.
 
-    All Wolves +1 attack.'
+    All Agent +1 attack.'
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}
