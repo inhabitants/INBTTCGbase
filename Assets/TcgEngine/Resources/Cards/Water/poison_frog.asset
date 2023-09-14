@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: poison_frog
   m_EditorClassIdentifier: 
   id: poison_frog
-  title: Poison Frog
-  art_full: {fileID: 21300000, guid: 1fd910ecdc1a61144b346d8eb03024df, type: 3}
-  art_board: {fileID: 21300000, guid: d5061174448f5ae44a0044ca206cea88, type: 3}
+  title: Shimmershift Switch
+  art_full: {fileID: 21300000, guid: f0027c434c7dcb94fa9d122248177d18, type: 3}
+  art_board: {fileID: 21300000, guid: 808d236914c7f0c4dbe167acc424ab7b, type: 3}
   type: 10
   team: {fileID: 11400000, guid: ed6dfd9dc7797584994eaf1fba66535f, type: 2}
   rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}

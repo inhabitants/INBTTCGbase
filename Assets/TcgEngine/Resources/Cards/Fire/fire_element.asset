@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: fire_element
   m_EditorClassIdentifier: 
   id: fire_element
-  title: Fire Element
-  art_full: {fileID: 21300000, guid: 8e98599ae92cd1f4686fdedd9bc1586e, type: 3}
-  art_board: {fileID: 21300000, guid: 9a73e08b22a1c18418c83c44de3f5de9, type: 3}
+  title: Phoenix Aurora
+  art_full: {fileID: 21300000, guid: 8a47fdd6e60936c4f94368d28c63d78c, type: 3}
+  art_board: {fileID: 21300000, guid: 5c4f181b1e4295c439868557aa883e0e, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}

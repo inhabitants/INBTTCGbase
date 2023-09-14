@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: crab_mana
   m_EditorClassIdentifier: 
   id: crab_mana
-  title: Mana Crab
-  art_full: {fileID: 21300000, guid: cce549b2eaf206644bd6bc7ac6e38295, type: 3}
-  art_board: {fileID: 21300000, guid: e73be87636869234498a5156aa80fd7a, type: 3}
+  title: Kennedy Cream
+  art_full: {fileID: 21300000, guid: a8dae85efde452540a9ec7769838566e, type: 3}
+  art_board: {fileID: 21300000, guid: 2a9b0e948936ea0488158d639da0fefc, type: 3}
   type: 10
   team: {fileID: 11400000, guid: ed6dfd9dc7797584994eaf1fba66535f, type: 2}
   rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}

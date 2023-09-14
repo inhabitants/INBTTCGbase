@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: octopus
   m_EditorClassIdentifier: 
   id: octopus
-  title: Octopus
-  art_full: {fileID: 21300000, guid: d56559e20ee05084796b679b85627fb6, type: 3}
-  art_board: {fileID: 21300000, guid: c1f252f09e61cb2498c48be274be348f, type: 3}
+  title: Neutron Otherworld
+  art_full: {fileID: 21300000, guid: 67e4168795a0172489ffe52c9dbf38a4, type: 3}
+  art_board: {fileID: 21300000, guid: 7ead3ffa0392e464f85d2137cc102e83, type: 3}
   type: 10
   team: {fileID: 11400000, guid: ed6dfd9dc7797584994eaf1fba66535f, type: 2}
   rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}

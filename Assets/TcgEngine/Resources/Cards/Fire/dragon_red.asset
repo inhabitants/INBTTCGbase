@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: dragon_red
   m_EditorClassIdentifier: 
   id: dragon_red
-  title: Red Dragon
-  art_full: {fileID: 21300000, guid: 217ff30ab88fe704d9da8efdebdec2a7, type: 3}
-  art_board: {fileID: 21300000, guid: 756c6d28a6a2dd149aeeeeee06ac4010, type: 3}
+  title: Mega Blue
+  art_full: {fileID: 21300000, guid: c7c69c43cc2f0a04793399d2e51e1fda, type: 3}
+  art_board: {fileID: 21300000, guid: 7d1f6e00df8eb4e49a6fc40dbe14c079, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: 13b592f40b7cd424c966f5d7eef425aa, type: 2}

@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: wolf_furious
   m_EditorClassIdentifier: 
   id: wolf_furious
-  title: Furious Wolf
-  art_full: {fileID: 21300000, guid: 68daff2a908ce27448fa286b8c3cd714, type: 3}
-  art_board: {fileID: 21300000, guid: bd86c41898912c34eba9e6bbba52fb42, type: 3}
+  title: Hypoxonik Shade
+  art_full: {fileID: 21300000, guid: 0a14e08d193ea2e4aa6d28d39baa8b43, type: 3}
+  art_board: {fileID: 21300000, guid: d26d5464c1b98b14c8fc5eeb5529d067, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: 15eaa2a0fbd97f149b3aa87387c160d1, type: 2}

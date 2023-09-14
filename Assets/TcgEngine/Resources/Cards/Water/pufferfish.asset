@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: pufferfish
   m_EditorClassIdentifier: 
   id: pufferfish
-  title: Pufferfish
-  art_full: {fileID: 21300000, guid: e2171587cdf01f345aafec22ae5ca887, type: 3}
-  art_board: {fileID: 21300000, guid: 6e6bb7509ba520a48be2b3298e2cfb85, type: 3}
+  title: Velon Kyrmon
+  art_full: {fileID: 21300000, guid: a4fa83262837c804e8bf3241a5b89248, type: 3}
+  art_board: {fileID: 21300000, guid: 7410e4b821acc7e4b8fda7496443dadd, type: 3}
   type: 10
   team: {fileID: 11400000, guid: ed6dfd9dc7797584994eaf1fba66535f, type: 2}
   rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}

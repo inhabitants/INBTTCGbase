@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: phoenix
   m_EditorClassIdentifier: 
   id: phoenix
-  title: Phoenix
-  art_full: {fileID: 21300000, guid: 083800ad47cf58a428fa510833a47af4, type: 3}
-  art_board: {fileID: 21300000, guid: 839a8c3d27c865143b7435f418dc5fe1, type: 3}
+  title: Syntex Blazer
+  art_full: {fileID: 21300000, guid: ae272391d0c3115458364b469debab1f, type: 3}
+  art_board: {fileID: 21300000, guid: 75e8cfc751298844782a5e7db6ac49ae, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: 13b592f40b7cd424c966f5d7eef425aa, type: 2}

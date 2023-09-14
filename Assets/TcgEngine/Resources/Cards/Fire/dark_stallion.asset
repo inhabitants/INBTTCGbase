@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: dark_stallion
   m_EditorClassIdentifier: 
   id: dark_stallion
-  title: Dark Stallion
-  art_full: {fileID: 21300000, guid: 3f996c8e57a34b046b26c0e702f6ec10, type: 3}
-  art_board: {fileID: 21300000, guid: a3c16225ff191a941959e49d08dae6fe, type: 3}
+  title: Cache Bailey
+  art_full: {fileID: 21300000, guid: 86bfa11eba366d643904d6545dd4d3af, type: 3}
+  art_board: {fileID: 21300000, guid: e8fd6229af89e4047894b78d245d9a3b, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}

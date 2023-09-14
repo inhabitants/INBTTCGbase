@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: seagull
   m_EditorClassIdentifier: 
   id: seagull
-  title: Seagull
-  art_full: {fileID: 21300000, guid: 4a08a6f218392f14dabeaa3970e88636, type: 3}
-  art_board: {fileID: 21300000, guid: 767a944c3bb1eac4ca9a9a2d936c0549, type: 3}
+  title: Teslacore Orbit
+  art_full: {fileID: 21300000, guid: bf500c1433d45a94387c83e659232f89, type: 3}
+  art_board: {fileID: 21300000, guid: 82f8b81e8238e654895c41c0bab7aa49, type: 3}
   type: 10
   team: {fileID: 11400000, guid: ed6dfd9dc7797584994eaf1fba66535f, type: 2}
   rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}

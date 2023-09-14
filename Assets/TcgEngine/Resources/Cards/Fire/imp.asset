@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: imp
   m_EditorClassIdentifier: 
   id: imp
-  title: Imp
-  art_full: {fileID: 21300000, guid: e74d128a608ae4c449e33aaf6449ee5e, type: 3}
-  art_board: {fileID: 21300000, guid: e4ceb28c84c0b8846a348abfad791085, type: 3}
+  title: Nanoforge Vyper
+  art_full: {fileID: 21300000, guid: 87cc9e1d483a54e458b950d301b28b10, type: 3}
+  art_board: {fileID: 21300000, guid: f569ee6492d37854bab57e0e355539f0, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}

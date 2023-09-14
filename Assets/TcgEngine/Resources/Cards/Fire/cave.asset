@@ -26,7 +26,7 @@ MonoBehaviour:
   stats: []
   abilities:
   - {fileID: 11400000, guid: c53d5c0775fc87d4080b05c05dc62b23, type: 2}
-  text: 'All red creatures gain: "Take 1 damage to gain +1 attack".'
+  text: 'All Neon Minds creatures gain: "Take 1 damage to gain +1 attack".'
   desc: 
   spawn_fx: {fileID: 9125387663047351618, guid: bac685160af4aff46ae561a51da6f5f4,
     type: 3}

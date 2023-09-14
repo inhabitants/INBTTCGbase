@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: bull_heat
   m_EditorClassIdentifier: 
   id: bull_heat
-  title: Heat Bull
-  art_full: {fileID: 21300000, guid: 40307ec5eae2d92459a10d13d4a6de5f, type: 3}
-  art_board: {fileID: 21300000, guid: 4df1ddd2c83f83649b0a1e2444d7461f, type: 3}
+  title: Aelon Dinke
+  art_full: {fileID: 21300000, guid: f167b6234ea33f34384b490ed14b5421, type: 3}
+  art_board: {fileID: 21300000, guid: 61762530b785df64ebada2fc12626ce7, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}

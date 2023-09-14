@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: firefox
   m_EditorClassIdentifier: 
   id: firefox
-  title: Firefox
-  art_full: {fileID: 21300000, guid: d2ec197d4022ca94d8dc1ee2d7eda955, type: 3}
-  art_board: {fileID: 21300000, guid: c3ac28cd1113c594ebe11a5f70251135, type: 3}
+  title: Drake Kyno
+  art_full: {fileID: 21300000, guid: a0c80d69d6666444784015695fd55b76, type: 3}
+  art_board: {fileID: 21300000, guid: 0ad6132534fa8704fbbe5f8298259642, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}

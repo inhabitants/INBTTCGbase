@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: reaper
   m_EditorClassIdentifier: 
   id: reaper
-  title: Hell Reaper
-  art_full: {fileID: 21300000, guid: 110e9843702372043955225eab755c90, type: 3}
-  art_board: {fileID: 21300000, guid: 2ea526c03100af04caf4ce7ca391c938, type: 3}
+  title: Syntex Uxyen
+  art_full: {fileID: 21300000, guid: 5d54a1a8ab8ef3a4fb6e74e6cc98cf6a, type: 3}
+  art_board: {fileID: 21300000, guid: 53d32699eab1aa04a947a5f2385f5e2a, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: 15eaa2a0fbd97f149b3aa87387c160d1, type: 2}

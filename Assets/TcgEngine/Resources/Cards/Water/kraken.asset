@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: kraken
   m_EditorClassIdentifier: 
   id: kraken
-  title: Kraken
-  art_full: {fileID: 21300000, guid: 7f5caa30992161948b7c40c6b67f7638, type: 3}
-  art_board: {fileID: 21300000, guid: a7ef87091fb6a3247920caaebc079de4, type: 3}
+  title: Luma Onyx
+  art_full: {fileID: 21300000, guid: 20da5a2e03f4ca24a80f054b0ab61f2a, type: 3}
+  art_board: {fileID: 21300000, guid: a30111f45d24cd74aac7ff2d43c0d085, type: 3}
   type: 10
   team: {fileID: 11400000, guid: ed6dfd9dc7797584994eaf1fba66535f, type: 2}
   rarity: {fileID: 11400000, guid: 15eaa2a0fbd97f149b3aa87387c160d1, type: 2}

@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: fish
   m_EditorClassIdentifier: 
   id: fish
-  title: Fish
-  art_full: {fileID: 21300000, guid: b2db8c6ecb5b1b64cbf5abac9d783ddc, type: 3}
-  art_board: {fileID: 21300000, guid: 68c5a00c7e31297439b6342a300a89d9, type: 3}
+  title: Flux Da Silva
+  art_full: {fileID: 21300000, guid: bc4d2019d99b99847a71693a7a579446, type: 3}
+  art_board: {fileID: 21300000, guid: 7de7d22d1ee2f714dbae1ef8a4c0ccb7, type: 3}
   type: 10
   team: {fileID: 11400000, guid: ed6dfd9dc7797584994eaf1fba66535f, type: 2}
   rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}
