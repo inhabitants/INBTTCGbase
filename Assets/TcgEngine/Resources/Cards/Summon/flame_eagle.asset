@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: flame_eagle
   m_EditorClassIdentifier: 
   id: flame_eagle
-  title: Flame Eagle
-  art_full: {fileID: 21300000, guid: 9a0ccc62afbc00441bdc835c4bc15f2e, type: 3}
-  art_board: {fileID: 21300000, guid: d98fe108a4ff3b74fbf697ff101bbb65, type: 3}
+  title: Circuit Lepus
+  art_full: {fileID: 21300000, guid: 2d691449e683e9f469218385deec0a02, type: 3}
+  art_board: {fileID: 21300000, guid: 42b98dfc4147f1c4b9b99683fdcbe9e4, type: 3}
   type: 10
   team: {fileID: 11400000, guid: 6bbb96863ece0314fb318c0fce569afc, type: 2}
   rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}

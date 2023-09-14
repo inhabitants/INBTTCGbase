@@ -29,7 +29,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: bbd458257afc3b143902562079df3124, type: 2}
   text: '<b>Cast (3):</b> Deal 2 damage.
 
-    <b>Death:</b> Summon an egg.'
+    <b>Death:</b> Summon an disciple.'
   desc: 
   spawn_fx: {fileID: 9125387663047351618, guid: bac685160af4aff46ae561a51da6f5f4,
     type: 3}

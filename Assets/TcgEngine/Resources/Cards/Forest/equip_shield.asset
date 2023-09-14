@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: equip_shield
   m_EditorClassIdentifier: 
   id: equip_shield
-  title: Wooden Shield
+  title: Proxy Guard
   art_full: {fileID: 21300000, guid: 26e4b66f2a4cc4a40a5000cdba227f21, type: 3}
   art_board: {fileID: 21300000, guid: efcc4c8de5003a5479b49e778ff5c83e, type: 3}
   type: 50

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: spell_hibernate
   m_EditorClassIdentifier: 
   id: spell_hibernate
-  title: Hibernate
+  title: Sedative Surge
   art_full: {fileID: 21300000, guid: 3339b73563834724b892ec5aa394be35, type: 3}
   art_board: {fileID: 0}
   type: 20

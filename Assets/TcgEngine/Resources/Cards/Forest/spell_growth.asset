@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: spell_growth
   m_EditorClassIdentifier: 
   id: spell_growth
-  title: Growth
-  art_full: {fileID: 21300000, guid: 641cb5b943c35164d9fdec0d51988e9f, type: 3}
+  title: White Rush
+  art_full: {fileID: 21300000, guid: 5fc38b02f51d0264991116e7618ed4aa, type: 3}
   art_board: {fileID: 0}
   type: 20
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
