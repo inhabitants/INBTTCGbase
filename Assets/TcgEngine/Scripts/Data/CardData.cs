@@ -39,6 +39,7 @@ namespace TcgEngine
         [Header("Traits")]
         public TraitData[] traits;
         public TraitStat[] stats;
+        
 
         [Header("Abilities")]
         public AbilityData[] abilities;
@@ -191,7 +192,7 @@ namespace TcgEngine
             }
             return false;
         }
-
+    
         public bool HasStat(TraitData trait)
         {
             if(trait != null)

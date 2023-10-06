@@ -22,12 +22,19 @@ MonoBehaviour:
   mana: 4
   attack: 3
   hp: 6
-  traits: []
+  traits:
+  - {fileID: 11400000, guid: 9124c4a8561cfd14d812a55b3e885662, type: 2}
+  - {fileID: 11400000, guid: 9436e14bc49faf74595ac5f19b793ba3, type: 2}
   stats: []
   abilities:
   - {fileID: 11400000, guid: 2a11cb097ae04474693f6d6e1dd957ee, type: 2}
-  text: Taunt
-  desc: 
+  - {fileID: 11400000, guid: 71b7fc6ed6ccb084486c85d48cc255f6, type: 2}
+  text: 'Taunt
+
+'
+  desc: 'qweqweqweqwdqwd
+
+    tjyytyt'
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}
   death_fx: {fileID: 0}

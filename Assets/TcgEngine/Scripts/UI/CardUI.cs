@@ -29,6 +29,8 @@ namespace TcgEngine.UI
         public Text card_title;
         public Text card_text;
 
+    
+
         public TraitUI[] stats;
 
         public UnityAction<CardUI> onClick;
@@ -76,6 +78,7 @@ namespace TcgEngine.UI
                 card_title.text = card.GetTitle().ToUpper();
             if (card_text != null)
                 card_text.text = card.GetText();
+            
 
             if (attack_icon != null)
                 attack_icon.enabled = card.IsCharacter();
@@ -160,6 +163,7 @@ namespace TcgEngine.UI
                 card_title.color = new Color(card_title.color.r, card_title.color.g, card_title.color.b, opacity);
             if (card_text != null)
                 card_text.color = new Color(card_text.color.r, card_text.color.g, card_text.color.b, opacity);
+            
         }
 
         public void Hide()
