@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 843a21f7f6f205741a0a7341aec8e84d, type: 3}
-  m_Name: woodland
+  m_Name: Macro_Flux_920
   m_EditorClassIdentifier: 
-  id: woodland
-  title: Woodland
-  art_full: {fileID: 21300000, guid: 4552df5a2028c574d807f9c67b42e7bd, type: 3}
-  art_board: {fileID: 21300000, guid: 75d36a2392560284ab5f357ebab94a2b, type: 3}
-  type: 30
+  id: owl
+  title: Macro Flux
+  art_full: {fileID: 21300000, guid: 388663baa81c02441a56e0b1e9928a98, type: 3}
+  art_board: {fileID: 21300000, guid: 4a20a45591649b74cbdecf7852d0234d, type: 3}
+  type: 10
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
-  rarity: {fileID: 11400000, guid: 15eaa2a0fbd97f149b3aa87387c160d1, type: 2}
-  mana: 2
-  attack: 0
-  hp: 5
+  rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}
+  mana: 3
+  attack: 2
+  hp: 3
   traits: []
   stats: []
   abilities:
-  - {fileID: 11400000, guid: 2dc423ee50827404cba37de4f98a52c5, type: 2}
-  text: '<b>Start of turn: </b>All Iron Nexus cards heal by 3.'
+  - {fileID: 11400000, guid: 6578032be95e85d4b967393b25252f91, type: 2}
+  text: Silence target card.
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

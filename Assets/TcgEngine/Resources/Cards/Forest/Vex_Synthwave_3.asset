@@ -10,23 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 843a21f7f6f205741a0a7341aec8e84d, type: 3}
-  m_Name: owl
+  m_Name: Vex_Synthwave_3
   m_EditorClassIdentifier: 
-  id: owl
-  title: Macro Flux
-  art_full: {fileID: 21300000, guid: 388663baa81c02441a56e0b1e9928a98, type: 3}
-  art_board: {fileID: 21300000, guid: 4a20a45591649b74cbdecf7852d0234d, type: 3}
+  id: unicorn
+  title: Vex Synthwave
+  art_full: {fileID: 21300000, guid: d43595a9481fbbd4680c536dbdb4d456, type: 3}
+  art_board: {fileID: 21300000, guid: e273b8dae45f86f4d80985175d063337, type: 3}
   type: 10
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
-  rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}
-  mana: 3
-  attack: 2
-  hp: 3
+  rarity: {fileID: 11400000, guid: 13b592f40b7cd424c966f5d7eef425aa, type: 2}
+  mana: 6
+  attack: 5
+  hp: 6
   traits: []
   stats: []
   abilities:
-  - {fileID: 11400000, guid: 6578032be95e85d4b967393b25252f91, type: 2}
-  text: Silence target card.
+  - {fileID: 11400000, guid: c361771bc0f771e48bb0a97fd2325564, type: 2}
+  - {fileID: 11400000, guid: dbdc04150338c3c4e8a6552b66924448, type: 2}
+  text: '<b>Play:</b> Give +2/2.
+
+    <b>Action:</b> Charge.'
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

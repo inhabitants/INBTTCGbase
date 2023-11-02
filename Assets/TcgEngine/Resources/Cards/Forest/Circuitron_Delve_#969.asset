@@ -10,23 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 843a21f7f6f205741a0a7341aec8e84d, type: 3}
-  m_Name: tree_angry
+  m_Name: Circuitron_Delve_#969
   m_EditorClassIdentifier: 
-  id: tree_angry
-  title: Tech Byte
-  art_full: {fileID: 21300000, guid: b5d74a64d2e93c64892bc92c64558520, type: 3}
-  art_board: {fileID: 21300000, guid: 5dad6f2eed9cf7941a1c5aa708233e61, type: 3}
+  id: wolf_alpha
+  title: Circuitron Delve
+  art_full: {fileID: 21300000, guid: 7f8b20e9995b92a40af148651b3680fc, type: 3}
+  art_board: {fileID: 21300000, guid: 94301d929be692a40a771c73ec039d78, type: 3}
   type: 10
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
-  rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}
+  rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}
   mana: 3
   attack: 3
-  hp: 5
-  traits: []
+  hp: 2
+  traits:
+  - {fileID: 11400000, guid: 9436e14bc49faf74595ac5f19b793ba3, type: 2}
   stats: []
   abilities:
-  - {fileID: 11400000, guid: 1bc895e873a2be145898a86a2fb9ca03, type: 2}
-  text: Regeneration
+  - {fileID: 11400000, guid: 952d8d808aec0464a8135270b1ed4049, type: 2}
+  - {fileID: 11400000, guid: c04ebd6a2109d0e4891c3e1dc9786993, type: 2}
+  text: '<b>Play</b>: Summon a Nexus-X Agent.
+
+    All Agent +1 attack.'
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

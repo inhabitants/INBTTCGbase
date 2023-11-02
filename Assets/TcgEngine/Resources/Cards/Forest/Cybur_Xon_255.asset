@@ -10,24 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 843a21f7f6f205741a0a7341aec8e84d, type: 3}
-  m_Name: wolf_stalker
+  m_Name: Cybur_Xon_255
   m_EditorClassIdentifier: 
-  id: wolf_stalker
-  title: H-Drive Duc
-  art_full: {fileID: 21300000, guid: ee4f5923729be03409bd8c8270c39f57, type: 3}
-  art_board: {fileID: 21300000, guid: 3c61378a473b6054189f9a006a6dc65d, type: 3}
+  id: raccoon
+  title: Cybur Xon
+  art_full: {fileID: 21300000, guid: cc484970b5e78054caeef180f6d756f8, type: 3}
+  art_board: {fileID: 21300000, guid: e629fcf6b5b9a4947851daa3588bf60f, type: 3}
   type: 10
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
   rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}
-  mana: 3
-  attack: 4
-  hp: 2
-  traits:
-  - {fileID: 11400000, guid: 9436e14bc49faf74595ac5f19b793ba3, type: 2}
+  mana: 2
+  attack: 2
+  hp: 3
+  traits: []
   stats: []
   abilities:
-  - {fileID: 11400000, guid: 71b7fc6ed6ccb084486c85d48cc255f6, type: 2}
-  text: Stealth
+  - {fileID: 11400000, guid: 70a627f65c541204f9f988a03fb1e663, type: 2}
+  text: <b>Play:</b> Return a character to your hand.
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

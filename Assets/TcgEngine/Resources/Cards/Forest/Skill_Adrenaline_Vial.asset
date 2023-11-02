@@ -10,30 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 843a21f7f6f205741a0a7341aec8e84d, type: 3}
-  m_Name: wolf_alpha
+  m_Name: Skill_Adrenaline_Vial
   m_EditorClassIdentifier: 
-  id: wolf_alpha
-  title: Circuitron Delve
-  art_full: {fileID: 21300000, guid: 7f8b20e9995b92a40af148651b3680fc, type: 3}
-  art_board: {fileID: 21300000, guid: 94301d929be692a40a771c73ec039d78, type: 3}
-  type: 10
+  id: potion_green
+  title: Adrenaline Vial
+  art_full: {fileID: 21300000, guid: 83bb0706a6224f840801ef2280e8f035, type: 3}
+  art_board: {fileID: 0}
+  type: 20
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
-  rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}
-  mana: 3
-  attack: 3
-  hp: 2
-  traits:
-  - {fileID: 11400000, guid: 9436e14bc49faf74595ac5f19b793ba3, type: 2}
+  rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}
+  mana: 2
+  attack: 0
+  hp: 0
+  traits: []
   stats: []
   abilities:
-  - {fileID: 11400000, guid: 952d8d808aec0464a8135270b1ed4049, type: 2}
-  - {fileID: 11400000, guid: c04ebd6a2109d0e4891c3e1dc9786993, type: 2}
-  text: '<b>Play</b>: Summon a Nexus-X Agent.
-
-    All Agent +1 attack.'
+  - {fileID: 11400000, guid: 16cdfeb08ea94fb4b8b65cd1bdbb6186, type: 2}
+  - {fileID: 11400000, guid: 17a4c57c4a3b61c46aef2d187356bb7b, type: 2}
+  text: Target gains 2 HP and Taunt.
   desc: 
-  spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
-    type: 3}
+  spawn_fx: {fileID: 0}
   death_fx: {fileID: 0}
   attack_fx: {fileID: 0}
   damage_fx: {fileID: 0}

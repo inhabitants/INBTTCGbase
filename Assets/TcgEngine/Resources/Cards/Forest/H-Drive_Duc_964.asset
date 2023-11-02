@@ -10,23 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 843a21f7f6f205741a0a7341aec8e84d, type: 3}
-  m_Name: bear
+  m_Name: H-Drive_Duc_964
   m_EditorClassIdentifier: 
-  id: bear
-  title: Surge Cha
-  art_full: {fileID: 21300000, guid: b76108a23905b5442921e20fa2f4f226, type: 3}
-  art_board: {fileID: 21300000, guid: 6272b04c96100fd49813d39026ef62c0, type: 3}
+  id: wolf_stalker
+  title: H-Drive Duc
+  art_full: {fileID: 21300000, guid: ee4f5923729be03409bd8c8270c39f57, type: 3}
+  art_board: {fileID: 21300000, guid: 3c61378a473b6054189f9a006a6dc65d, type: 3}
   type: 10
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
-  rarity: {fileID: 11400000, guid: 72248f07232412e4db2f6864dbb4e271, type: 2}
-  mana: 5
+  rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}
+  mana: 3
   attack: 4
-  hp: 5
-  traits: []
+  hp: 2
+  traits:
+  - {fileID: 11400000, guid: 9436e14bc49faf74595ac5f19b793ba3, type: 2}
   stats: []
   abilities:
-  - {fileID: 11400000, guid: d512ef5a37e7a1c4ebb5c337e37b96bd, type: 2}
-  text: <b>Play:</b> Gain Taunt or Fury
+  - {fileID: 11400000, guid: 71b7fc6ed6ccb084486c85d48cc255f6, type: 2}
+  text: Stealth
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

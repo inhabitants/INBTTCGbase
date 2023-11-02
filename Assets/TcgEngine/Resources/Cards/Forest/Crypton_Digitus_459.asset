@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 843a21f7f6f205741a0a7341aec8e84d, type: 3}
-  m_Name: mammoth
+  m_Name: Crypton_Digitus_459
   m_EditorClassIdentifier: 
-  id: mammoth
-  title: Lace Cyder
-  art_full: {fileID: 21300000, guid: 4d6d3fd7a1b97fd478b179dfb8b625ce, type: 3}
-  art_board: {fileID: 21300000, guid: fc457affb575f7746a4db3ff23a4a79e, type: 3}
+  id: armored_beast
+  title: Crypton Digitus
+  art_full: {fileID: 21300000, guid: 93ef6bd3f17fb844988b2c39ecb8adaa, type: 3}
+  art_board: {fileID: 21300000, guid: 28d7517cc97baaa4ebc108245b0a1c1b, type: 3}
   type: 10
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
-  rarity: {fileID: 11400000, guid: 15eaa2a0fbd97f149b3aa87387c160d1, type: 2}
-  mana: 6
-  attack: 7
+  rarity: {fileID: 11400000, guid: fab1a52f5a36cc942985dea95be18ac9, type: 2}
+  mana: 4
+  attack: 3
   hp: 6
   traits: []
   stats: []
   abilities:
-  - {fileID: 11400000, guid: 12701b92080445044bf934c1dd5915ca, type: 2}
-  text: Trample
+  - {fileID: 11400000, guid: 2a11cb097ae04474693f6d6e1dd957ee, type: 2}
+  text: Taunt
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}
