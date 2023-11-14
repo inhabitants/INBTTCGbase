@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: potion_green
   title: Adrenaline Vial
-  art_full: {fileID: 21300000, guid: 83bb0706a6224f840801ef2280e8f035, type: 3}
+  art_full: {fileID: 21300000, guid: a64aeefbdb1220444ad533531f3f4897, type: 3}
   art_board: {fileID: 0}
   type: 20
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}

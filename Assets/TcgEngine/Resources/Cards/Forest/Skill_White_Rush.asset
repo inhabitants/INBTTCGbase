@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: spell_growth
   title: White Rush
-  art_full: {fileID: 21300000, guid: 5fc38b02f51d0264991116e7618ed4aa, type: 3}
+  art_full: {fileID: 21300000, guid: df63de1086af2404e8f1bda28b4fc458, type: 3}
   art_board: {fileID: 0}
   type: 20
   team: {fileID: 11400000, guid: b80d8061c5bdb2e408e62a08e0e743ca, type: 2}
