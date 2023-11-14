@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 902c955805daa664683fc8908452e390, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7c9db5d7659cc1b4996c1a1324df5eae, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1549,7 +1549,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 163abb234e4d627478313d55e75ff876, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 14cd15194fbe1da409db63898d10805b, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1835,7 +1835,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e00132f1eba37df458a2ec31b64ce623, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 68e93398b0a3a9c4894d11eddd748a04, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2389,7 +2389,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f60109508e460414da18c809cce28c8a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 140b8569bac92da458f5b20f41c181ad, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3262,7 +3262,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 683a50fcd851d6d45ac0a67c123f2a04, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 262106db2a60d424d8b7b0dabb7bd9e0, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -4730,7 +4730,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e00132f1eba37df458a2ec31b64ce623, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 68e93398b0a3a9c4894d11eddd748a04, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -6798,7 +6798,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f60109508e460414da18c809cce28c8a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 140b8569bac92da458f5b20f41c181ad, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -12555,7 +12555,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 163abb234e4d627478313d55e75ff876, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 14cd15194fbe1da409db63898d10805b, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -17282,7 +17282,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d9c34e3dd92c08d479c93826f3ad9a01, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a8ff961389a2e7641ad18055c6b48573, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -22682,7 +22682,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 294abb673bffdbb498170d01a73153e5, type: 3}
-    m_FontSize: 24
+    m_FontSize: 22
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -22693,7 +22693,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Version 1.00
+  m_Text: Version 0.29
 --- !u!222 &1975599771
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24609,7 +24609,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 902c955805daa664683fc8908452e390, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7c9db5d7659cc1b4996c1a1324df5eae, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -24909,7 +24909,7 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: HP
       m_Image: {fileID: 0}
-    - m_Text: Mana
+    - m_Text: Token Cost
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
@@ -25451,7 +25451,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48f1c6105a2efd946b431664eef2f58c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: <color=#47AD0F>Forest:</color> Strong at defending, boosting hp and paralysing
+  text: <color=#47AD0F>Iron Nexus:</color> Strong at defending, boosting hp and paralysing
     enemies.
   delay: 0.5
   text_size: 22
@@ -25521,7 +25521,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a8ee6a2f10b65e8438e413fd2554561c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a8ff961389a2e7641ad18055c6b48573, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -25710,8 +25710,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48f1c6105a2efd946b431664eef2f58c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: <color=#3788EE>Water:</color> Good at drawing cards, gaining mana and reducing
-    enemies stats.
+  text: <color=#3788EE>Shadow_Arbiters:</color> Good at drawing cards, gaining mana
+    and reducing enemies stats.
   delay: 0.5
   text_size: 22
   width: 350
@@ -25810,7 +25810,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a8ee6a2f10b65e8438e413fd2554561c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7c9db5d7659cc1b4996c1a1324df5eae, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -26755,7 +26755,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d9c34e3dd92c08d479c93826f3ad9a01, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a8ff961389a2e7641ad18055c6b48573, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -27108,8 +27108,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48f1c6105a2efd946b431664eef2f58c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: <color=#D93411>Fire:</color> Great at dealing damage, boosting attack and
-    destroying stuff.
+  text: <color=#D93411>Neon Minds:</color> Great at dealing damage, boosting attack
+    and destroying stuff.
   delay: 0.5
   text_size: 22
   width: 350
@@ -27195,7 +27195,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a8ee6a2f10b65e8438e413fd2554561c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 262106db2a60d424d8b7b0dabb7bd9e0, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -29922,7 +29922,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Locations
+  m_Text: Artifacts
 --- !u!222 &396921783374516598
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -30354,7 +30354,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 683a50fcd851d6d45ac0a67c123f2a04, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 262106db2a60d424d8b7b0dabb7bd9e0, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -31827,7 +31827,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Spells
+  m_Text: Skills
 --- !u!222 &396921783987010465
 CanvasRenderer:
   m_ObjectHideFlags: 0

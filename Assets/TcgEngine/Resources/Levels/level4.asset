@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: adventure4
   level: 4
-  title: Death
+  title: Online Killers
   scene: Game
   player_deck: {fileID: 11400000, guid: 4327ef7d14f8590419a7956f7dadc00f, type: 2}
   ai_deck: {fileID: 11400000, guid: d2ab5008ff70f2e43b0115e60432c2c3, type: 2}

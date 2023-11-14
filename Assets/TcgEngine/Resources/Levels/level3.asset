@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: adventure3
   level: 3
-  title: Mammoth
+  title: Tank Network
   scene: Game
   player_deck: {fileID: 11400000, guid: 2a24512357bd29c43a2f07db4d97c96b, type: 2}
   ai_deck: {fileID: 11400000, guid: 03eb3592c7d808e4092a078b0b2c19bb, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: adventure1
   level: 1
-  title: Wolf Pack
+  title: Corrupted Agents
   scene: Game
   player_deck: {fileID: 11400000, guid: 413faefccb2016a4f8639e461e0f3259, type: 2}
   ai_deck: {fileID: 11400000, guid: e003f1863b637b840b5504c627bb9427, type: 2}

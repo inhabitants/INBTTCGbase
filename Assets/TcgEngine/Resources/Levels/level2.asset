@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: adventure2
   level: 2
-  title: Tree Taunt
+  title: Fast Chain
   scene: Game
   player_deck: {fileID: 11400000, guid: 65bd847f67d27c14dbc5209309fe29fb, type: 2}
   ai_deck: {fileID: 11400000, guid: 9b795345998e0814185faf16594145c2, type: 2}
